@@ -1,0 +1,7 @@
+5
+https://drive.google.com/uc?export=download&id=1OpIFi_8-G3hMHiCwreb_RdkMwwAlnqyk
+https://drive.google.com/file/d/1OpIFi_8-G3hMHiCwreb_RdkMwwAlnqyk/view?usp=drive_open
+Version 1.2
+- Added update checker
+- Fixed download fragment
+- Added toast saying download has started
