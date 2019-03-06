@@ -1,6 +1,6 @@
-8
-https://drive.google.com/uc?export=download&id=1K154qike-kYxiWnDV1NppTgfmIh0L2yj
-https://drive.google.com/file/d/1K154qike-kYxiWnDV1NppTgfmIh0L2yj/view
-Version 1.4
-- Added Spotify playlist conversion. Login to your Spotifty and paste your playlist link into the search box with 'Spotify PL' selected and search. It will list your tracks and make them available for download (only tested for small playlists).
-- Added 'Download All' button to download all tracks in the search list (entire playlists/albums can now be downloaded easily).
+10
+https://drive.google.com/uc?export=download&id=1I0Z5MSTLDU9VYOGiUWhmnK4PVcMz9E6E
+https://drive.google.com/file/d/1I0Z5MSTLDU9VYOGiUWhmnK4PVcMz9E6E/view
+Version 1.4.2
+- IMPORTANT: The app NO LONGER works in UK, USA or Netherlands. A VPN must be used for the app to work.
+  This update fixes language issues when downloading music through a VPN in a country with a different language.
