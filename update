@@ -1,6 +1,6 @@
-10
-https://drive.google.com/uc?export=download&id=1I0Z5MSTLDU9VYOGiUWhmnK4PVcMz9E6E
-https://drive.google.com/file/d/1I0Z5MSTLDU9VYOGiUWhmnK4PVcMz9E6E/view
-Version 1.4.2
-- IMPORTANT: The app NO LONGER works in UK, USA or Netherlands. A VPN must be used for the app to work.
-  This update fixes language issues when downloading music through a VPN in a country with a different language.
+11
+https://drive.google.com/uc?export=download&id=1gzCbCiXmIbshlwfqUcItlm6xYyHLJXap
+https://drive.google.com/file/d/1gzCbCiXmIbshlwfqUcItlm6xYyHLJXap/view
+Version 1.4.3
+- The app will now work as usual without a VPN (basically I'm really intelligent).
+  Logins are now proxied through Ireland to avoid recaptcha.
