@@ -1,6 +1,7 @@
-11
+12
 https://drive.google.com/uc?export=download&id=1gzCbCiXmIbshlwfqUcItlm6xYyHLJXap
 https://drive.google.com/file/d/1gzCbCiXmIbshlwfqUcItlm6xYyHLJXap/view
-Version 1.4.3
-- The app will now work as usual without a VPN (basically I'm really intelligent).
-  Logins are now proxied through Ireland to avoid recaptcha.
+READ
+- This is NOT AN UPDATE. The app won't work anymore I'm working on a new login flow.
+  You may have to do a captcha every time you open the app.
+  Soundcloud still works fine.
