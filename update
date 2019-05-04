@@ -1,6 +1,9 @@
-14
-https://drive.google.com/uc?export=download&id=1SKdNFvlG5wyWd-UNS1-p1Gz9SLhcRVfl
-https://drive.google.com/file/d/1SKdNFvlG5wyWd-UNS1-p1Gz9SLhcRVfl/view
+15
+https://drive.google.com/uc?export=download&id=1tv9HvWrl_5xoy7-1hu2rO4MtZjiCw-PC
+https://drive.google.com/file/d/1tv9HvWrl_5xoy7-1hu2rO4MtZjiCw-PC/view
+Version 1.6.1
+- Fixed endless error when login expired.
+
 Version 1.6
 - Fixed Deezer login (app now fully functioning again)
 - Deezer login should be less frequent as well.
