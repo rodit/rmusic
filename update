@@ -1,5 +1,7 @@
-15
-https://drive.google.com/uc?export=download&id=11KiHof4vegnj6sy1Ou9_R9rlTVoMefZd
-https://drive.google.com/file/d/11KiHof4vegnj6sy1Ou9_R9rlTVoMefZd/view
+18
+https://drive.google.com/uc?export=download&id=1XOoti4I-xtI9dLdzqIia6s_55atL51cj
+https://drive.google.com/file/d/1XOoti4I-xtI9dLdzqIia6s_55atL51cj/view
+Version 1.7.1
+- Fixed youtube downloader wrongly tagging files.
 Version 1.7
 - Added youtube audio downloader (paste youtube video url into search bar and press search).
